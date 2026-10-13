@@ -1,0 +1,13 @@
+─── ZOO DETAILS ───
+── General Information ──
+Zoo Name: Belfast City Zoo
+Total Animals: 8
+Dominant Colour: Grey
+── Animal Counts ──
+Dogs : 2
+Hawks: 3
+Seals: 3
+── Statistics ──
+Average Age    : 5.3 years
+Average Weight : 42.6 kg
+

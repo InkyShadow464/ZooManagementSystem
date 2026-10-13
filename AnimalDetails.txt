@@ -1,0 +1,8 @@
+DOG,Maxwell,2,Brown,12,Dachshund
+HAWK,Tulah,5,White,1,25
+SEAL,Niko,6,Grey,25,Intermediate
+DOG,Mike,4,Black,36,Border Collie
+HAWK,Trent,5,Black,12,30
+SEAL,Mika,6,Grey,220,Expert
+HAWK,Spike,7,White,15,25
+SEAL,Mina,7,Grey,20,Novice
